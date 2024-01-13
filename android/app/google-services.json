@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128203340466",
+    "project_id": "turntech-af9a8",
+    "storage_bucket": "turntech-af9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128203340466:android:cc22aba537fd7cb9ca27ab",
+        "android_client_info": {
+          "package_name": "com.example.turn_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexGUPezwBu5RF5hCq5oPn0yiBNyA0BgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
